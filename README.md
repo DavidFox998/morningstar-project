@@ -43,6 +43,38 @@ Zero speed. Instantaneous. Worlds united.
 
 ---
 
+## Opera Numerorum — ensemble map
+
+**[arakelov-positivity-rh-core](https://github.com/DavidFox998/arakelov-positivity-rh-core) — Core** — RH positivity, `ω² = 48/13 > 0` — the root every repo connects to
+
+**[rh-p5-bridge-14](https://github.com/DavidFox998/rh-p5-bridge-14) — Keystone** — ensemble manifest (`REPOS.md`) and chain lock; reduces infinite `S_α₀` to finite `S₁₄`
+
+**[bost-connes](https://github.com/DavidFox998/bost-connes) — Arithmetic hub** — `C(S₄) = 11.422 > 2√13`; Bost–Connes spectral analysis for X₀(143)
+
+**[birch-swinnerton-dyer-143](https://github.com/DavidFox998/birch-swinnerton-dyer-143) — BSD** — BSD for curve 143a1 — recorded OPEN (formalization exceeds what Mathlib currently supports)
+
+**[birch-swinnerton-dyer-143a1](https://github.com/DavidFox998/birch-swinnerton-dyer-143a1) — BSD worked example** — Heegner point `(4,6)`, `L(143a1,1) ≠ 0`, `|Sha| = 1`
+
+**[lindelof-hypothesis-143](https://github.com/DavidFox998/lindelof-hypothesis-143) — Lindelöf** — `μ = 0` for X₀(143) via S₄ = {2, 3, 19, 191}
+
+**[yang-mills-gap](https://github.com/DavidFox998/yang-mills-gap) — Yang–Mills** — SU(3) lattice mass gap at `β₀ = ln 8`
+
+**[navier-stokes](https://github.com/DavidFox998/navier-stokes) — Navier–Stokes** — global regularity formalization
+
+**[p-vs-np](https://github.com/DavidFox998/p-vs-np) — P vs NP** — mechanics; conditional `SAT ∉ P → P ≠ NP`
+
+**[eutheos-property](https://github.com/DavidFox998/eutheos-property) — Barrier bypass** — witness `T = 1419 = 3·11·43`
+
+**[poincare-spectral](https://github.com/DavidFox998/poincare-spectral) — Poincaré** — spectral gap for the homology sphere `S³/I*`
+
+**[hodge-abelian-boundaries](https://github.com/DavidFox998/hodge-abelian-boundaries) — Hodge** — measured (2,2)-class obstructions on CM abelian varieties
+
+**[opera-sieve](https://github.com/DavidFox998/opera-sieve) — Sieve** — canonical sieve for `S(α₀ = 299+π/10)`; M1–M13 pipeline
+
+**[morningstar-project](https://github.com/DavidFox998/morningstar-project) — Certification** — machine certification for GRH(X₀(143)) and BSD(J₀(143)) ← **this repo**
+
+*The four historical RH routes (A–D) are private — the multi-route structure is confusing; their status is documented in the keystone's `REPOS.md`. Referee access to non-public material is via the Oracle.*
+
 ## What This Repository Contains
 
 The complete Lean 4 machine-verified proof tower for the Morning Star research program,
@@ -164,8 +196,7 @@ echo 'import TheoremaAureum143
 |------|----------|
 | [rh-core-c01-c07](https://github.com/DavidFox998/rh-core-c01-c07) | Seven-file RH proof |
 | [rh-p5-bridge-14](https://github.com/DavidFox998/rh-p5-bridge-14) | P5-Bridge-14 chain |
-| [pistus-theoria](https://github.com/DavidFox998/pistus-theoria) | Full PDF archive |
-| [opera-seive](https://github.com/DavidFox998/opera-seive) | Testing, datasets, CSV |
+| [opera-sieve](https://github.com/DavidFox998/opera-sieve) | Testing, datasets, CSV |
 | [bost-connes](https://github.com/DavidFox998/bost-connes) | Bost–Connes spectral analysis |
 
 ---
