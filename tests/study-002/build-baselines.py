@@ -7,7 +7,9 @@ built — adaptations, all mechanical:
   carries no stream column; streams are read from scripture/ TSVs,
   joined on (corpus, book, ref).
 - Surrogate length matching uses n_letters ± 2 (the filed intent);
-  David's draft compared verse_total against letter count.
+  David's draft compared verse_total against letter count. Where no
+  same-book verse falls within ± 2 (1,255 verses in the first build),
+  the pool falls back to the whole book — David's draft rule.
 - Verses with right_sum = 0 have no distance (Table B leaves it blank);
   they are excluded from distance statistics and counted in the manifest.
 Outputs: per-verse SUMMARY csvs under baselines/{shuffle,surrogate}-200/
@@ -99,6 +101,9 @@ def main():
         for (book, ref), st in sorted(streams.items()):
             n = len(st)
             pool = [s2 for (r2, s2) in by_book[book] if r2 != ref and abs(len(s2) - n) <= 2]
+            if not pool:
+                # David's draft rule: no same-length candidates -> whole book.
+                pool = [s2 for (r2, s2) in by_book[book] if r2 != ref]
             tasks.append((idx, corpus, book, ref, st, pool)); idx += 1
         with Pool(16) as p:
             results = p.map(work, tasks, chunksize=64)
