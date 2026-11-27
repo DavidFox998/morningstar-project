@@ -1,0 +1,5 @@
+corpus,buckets_pass,books_consistent,verdict
+nt,8,0.480000,FAIL
+quran-simple,9,0.701299,PASS
+quran-uthmani,9,0.628571,FAIL
+tanakh,9,0.944444,PASS
