@@ -47,7 +47,7 @@ SU = load_summary(ROOT / "baselines/surrogate-200/summary.csv")
 def perm_p(x, y, rho_obs, n=10000):
     cnt = 0
     for _ in range(n):
-        rp = spearmanr(x, rng.permutation(y)).statistic
+        rp = spearmanr(x, rng.permutation(y))[0]
         if abs(rp) >= abs(rho_obs): cnt += 1
     return (cnt + 1) / (n + 1)
 
@@ -61,16 +61,16 @@ def tradition_rows(corpus):
 
 def evaluate(corpus):
     rows, ax, real, sh, su = tradition_rows(corpus)
-    rho = spearmanr(ax, real).statistic
+    rho = spearmanr(ax, real)[0]
     p = perm_p(ax, real, rho)
-    rho_sh = spearmanr(ax, sh).statistic
-    rho_su = spearmanr(ax, su).statistic
+    rho_sh = spearmanr(ax, sh)[0]
+    rho_su = spearmanr(ax, su)[0]
     books = {}
     for i, r in enumerate(rows): books.setdefault(r["book"], []).append(i)
     signs, total = 0, 0
     for book, idxs in books.items():
         if len(idxs) >= 30 and len(set(ax[idxs])) >= 3:
-            rb = spearmanr(ax[idxs], real[idxs]).statistic
+            rb = spearmanr(ax[idxs], real[idxs])[0]
             total += 1
             if np.sign(rb) == np.sign(rho): signs += 1
     consistent = total > 0 and signs / total >= 2 / 3
