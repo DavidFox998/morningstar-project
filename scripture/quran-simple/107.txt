@@ -1,0 +1,33 @@
+# Surah 107 Al-Maa'un (Arabic, quran-simple)
+Source: AlQuran Cloud quran-simple (Tanzil text), abjad values, diacritics/dagger alifs are marks not letters
+Verses: 7  Words: 29  Letters: 133  Standard total: 9994
+Format per verse: heading, native line, number line (standard values, word groups separated by ·).
+The machine file 107.tsv carries per-verse letter strings, standard and ordinal streams.
+
+## 107:1
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ
+2 60 40 · 1 30 30 5 · 1 30 200 8 40 50 · 1 30 200 8 10 40 · 1 200 1 10 400 · 1 30 700 10 · 10 20 700 2 · 2 1 30 4 10 50
+
+## 107:2
+فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ
+80 700 30 20 · 1 30 700 10 · 10 4 70 · 1 30 10 400 10 40
+
+## 107:3
+وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
+6 30 1 · 10 8 800 · 70 30 10 · 9 70 1 40 · 1 30 40 60 20 10 50
+
+## 107:4
+فَوَيْلٌ لِلْمُصَلِّينَ
+80 6 10 30 · 30 30 40 90 30 10 50
+
+## 107:5
+الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
+1 30 700 10 50 · 5 40 · 70 50 · 90 30 1 400 5 40 · 60 1 5 6 50
+
+## 107:6
+الَّذِينَ هُمْ يُرَاءُونَ
+1 30 700 10 50 · 5 40 · 10 200 1 1 6 50
+
+## 107:7
+وَيَمْنَعُونَ الْمَاعُونَ
+6 10 40 50 70 6 50 · 1 30 40 1 70 6 50

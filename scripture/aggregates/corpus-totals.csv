@@ -1,0 +1,295 @@
+corpus,book,verses,words,letters,std_total
+tanakh,Genesis,1533,20612,78069,5106328
+tanakh,Exodus,1213,16713,63531,4639057
+tanakh,Leviticus,859,11950,44795,3137290
+tanakh,Numbers,1289,16413,63545,4350383
+tanakh,Deuteronomy,959,14294,54910,3777134
+tanakh,Joshua,658,10051,39807,2595459
+tanakh,Judges,618,9885,38944,2489077
+tanakh,1 Samuel,811,13264,51354,3196589
+tanakh,2 Samuel,695,11039,42178,2563921
+tanakh,1 Kings,817,13140,50623,3359013
+tanakh,2 Kings,719,12281,47837,3095337
+tanakh,Isaiah,1291,16932,66888,4228821
+tanakh,Jeremiah,1364,21836,84912,5410434
+tanakh,Ezekiel,1273,18730,74499,5105426
+tanakh,Hosea,197,2381,9385,575360
+tanakh,Joel,73,957,3872,227748
+tanakh,Amos,146,2042,8033,516729
+tanakh,Obadiah,21,291,1119,72792
+tanakh,Jonah,48,688,2700,149331
+tanakh,Micah,105,1396,5570,366484
+tanakh,Nahum,47,558,2252,131925
+tanakh,Habakkuk,56,671,2598,162567
+tanakh,Zephaniah,53,767,2996,183027
+tanakh,Haggai,38,600,2336,138554
+tanakh,Zechariah,211,3128,12432,753338
+tanakh,Malachi,55,876,3450,225548
+tanakh,Psalms,2527,19587,78833,4937962
+tanakh,Proverbs,915,6915,26507,1866460
+tanakh,Job,1070,8343,31862,2018172
+tanakh,Song of Songs,117,1251,5151,354444
+tanakh,Ruth,85,1294,4947,364845
+tanakh,Lamentations,154,1542,5980,375484
+tanakh,Ecclesiastes,222,2987,10969,723791
+tanakh,Esther,167,3045,12112,855527
+tanakh,Daniel,357,5919,24291,1438998
+tanakh,Ezra,280,3754,15764,985283
+tanakh,Nehemiah,405,5312,22513,1411783
+tanakh,1 Chronicles,943,10747,44558,2764738
+tanakh,2 Chronicles,822,13316,54920,3436249
+nt,Matthew,1068,18329,90007,10500896
+nt,Mark,673,11286,56437,6347097
+nt,Luke,1149,19446,95843,11102876
+nt,John,866,15438,70423,8259144
+nt,Acts,1002,18412,95647,11008607
+nt,Romans,430,7055,34166,4030378
+nt,1 Corinthians,437,6812,32704,3903459
+nt,2 Corinthians,256,4473,22263,2618547
+nt,Galatians,149,2226,11070,1255889
+nt,Ephesians,155,2416,11983,1489318
+nt,Philippians,104,1626,7986,971361
+nt,Colossians,95,1580,7878,969037
+nt,1 Thessalonians,89,1473,7393,869503
+nt,2 Thessalonians,47,820,4039,476931
+nt,1 Timothy,113,1591,8850,1000174
+nt,2 Timothy,83,1235,6519,719782
+nt,Titus,46,659,3724,410371
+nt,Philemon,25,334,1560,198844
+nt,Hebrews,303,4935,26309,3017774
+nt,James,108,1739,8822,1014278
+nt,1 Peter,105,1678,9040,1089605
+nt,2 Peter,61,1098,6074,726944
+nt,1 John,105,2137,9445,1122435
+nt,2 John,13,245,1130,124111
+nt,3 John,15,219,1107,131251
+nt,Jude,25,459,2576,309986
+nt,Revelation,405,9833,45961,5534872
+quran-simple,1 Al-Faatiha,7,29,143,10147
+quran-simple,2 Al-Baqara,286,6144,26268,1826314
+quran-simple,3 Aal-i-Imraan,200,3505,15004,1057671
+quran-simple,4 An-Nisaa,176,3767,16351,1118210
+quran-simple,5 Al-Maaida,120,2841,12225,825495
+quran-simple,6 Al-An'aam,165,3060,12745,934677
+quran-simple,7 Al-A'raaf,206,3345,14454,1055604
+quran-simple,8 Al-Anfaal,75,1246,5406,376684
+quran-simple,9 At-Tawba,129,2505,11115,738190
+quran-simple,10 Yunus,109,1843,7608,536862
+quran-simple,11 Hud,123,1950,7836,538577
+quran-simple,12 Yusuf,111,1799,7326,498101
+quran-simple,13 Ar-Ra'd,43,857,3564,239874
+quran-simple,14 Ibrahim,52,834,3558,264365
+quran-simple,15 Al-Hijr,99,661,2901,180666
+quran-simple,16 An-Nahl,128,1848,7851,558534
+quran-simple,17 Al-Israa,111,1562,6662,474049
+quran-simple,18 Al-Kahf,110,1587,6571,496441
+quran-simple,19 Maryam,98,975,3954,281964
+quran-simple,20 Taa-Haa,135,1357,5418,388528
+quran-simple,21 Al-Anbiyaa,112,1178,5113,352195
+quran-simple,22 Al-Hajj,78,1283,5333,365594
+quran-simple,23 Al-Muminoon,118,1056,4502,344202
+quran-simple,24 An-Noor,64,1323,5773,414854
+quran-simple,25 Al-Furqaan,77,900,3897,293162
+quran-simple,26 Ash-Shu'araa,227,1324,5649,392910
+quran-simple,27 An-Naml,93,1163,4809,335213
+quran-simple,28 Al-Qasas,88,1442,5949,400181
+quran-simple,29 Al-Ankaboot,69,982,4336,275011
+quran-simple,30 Ar-Room,60,821,3491,269193
+quran-simple,31 Luqman,34,554,2190,156256
+quran-simple,32 As-Sajda,30,376,1582,111239
+quran-simple,33 Al-Ahzaab,73,1307,5807,378431
+quran-simple,34 Saba,54,888,3613,255083
+quran-simple,35 Faatir,45,782,3257,245449
+quran-simple,36 Yaseen,83,734,3087,218061
+quran-simple,37 As-Saaffaat,182,869,3918,260617
+quran-simple,38 Saad,88,739,3084,228653
+quran-simple,39 Az-Zumar,75,1181,4888,365874
+quran-simple,40 Ghafir,85,1230,5127,361491
+quran-simple,41 Fussilat,54,798,3384,237438
+quran-simple,42 Ash-Shura,53,864,3541,245300
+quran-simple,43 Az-Zukhruf,89,840,3628,254791
+quran-simple,44 Ad-Dukhaan,59,350,1493,96741
+quran-simple,45 Al-Jaathiya,37,492,2104,154255
+quran-simple,46 Al-Ahqaf,35,649,2686,192799
+quran-simple,47 Muhammad,38,546,2442,181060
+quran-simple,48 Al-Fath,29,564,2529,182749
+quran-simple,49 Al-Hujuraat,18,357,1552,102196
+quran-simple,50 Qaaf,45,377,1526,107722
+quran-simple,51 Adh-Dhaariyat,60,364,1565,117378
+quran-simple,52 At-Tur,49,316,1343,94269
+quran-simple,53 An-Najm,62,364,1452,107464
+quran-simple,54 Al-Qamar,55,346,1488,119221
+quran-simple,55 Ar-Rahmaan,78,356,1666,128959
+quran-simple,56 Al-Waaqia,96,383,1775,125054
+quran-simple,57 Al-Hadid,29,579,2564,189855
+quran-simple,58 Al-Mujaadila,22,479,2065,132182
+quran-simple,59 Al-Hashr,24,451,1989,130168
+quran-simple,60 Al-Mumtahana,13,356,1579,99705
+quran-simple,61 As-Saff,14,230,985,62594
+quran-simple,62 Al-Jumu'a,11,181,787,60422
+quran-simple,63 Al-Munaafiqoon,11,185,820,54125
+quran-simple,64 At-Taghaabun,18,246,1110,79422
+quran-simple,65 At-Talaaq,12,293,1222,90274
+quran-simple,66 At-Tahrim,12,258,1124,86443
+quran-simple,67 Al-Mulk,30,337,1366,103064
+quran-simple,68 Al-Qalam,52,305,1308,91650
+quran-simple,69 Al-Haaqqa,52,264,1152,84902
+quran-simple,70 Al-Ma'aarij,44,221,990,71386
+quran-simple,71 Nooh,28,231,984,76114
+quran-simple,72 Al-Jinn,28,290,1128,67378
+quran-simple,73 Al-Muzzammil,20,204,873,67989
+quran-simple,74 Al-Muddaththir,56,260,1054,87420
+quran-simple,75 Al-Qiyaama,40,168,695,49854
+quran-simple,76 Al-Insaan,31,247,1106,74318
+quran-simple,77 Al-Mursalaat,50,185,860,72616
+quran-simple,78 An-Naba,40,178,815,53884
+quran-simple,79 An-Naazi'aat,46,183,804,60608
+quran-simple,80 Abasa,42,137,571,47817
+quran-simple,81 At-Takwir,29,108,454,41107
+quran-simple,82 Al-Infitaar,19,85,352,27068
+quran-simple,83 Al-Mutaffifin,36,173,769,57527
+quran-simple,84 Al-Inshiqaaq,25,112,464,33759
+quran-simple,85 Al-Burooj,22,113,488,33650
+quran-simple,86 At-Taariq,17,65,273,17383
+quran-simple,87 Al-A'laa,19,76,315,26294
+quran-simple,88 Al-Ghaashiya,26,96,401,31906
+quran-simple,89 Al-Fajr,30,143,603,48796
+quran-simple,90 Al-Balad,20,86,361,21111
+quran-simple,91 Ash-Shams,15,58,272,19773
+quran-simple,92 Al-Lail,21,75,333,29624
+quran-simple,93 Ad-Dhuhaa,11,44,184,13318
+quran-simple,94 Ash-Sharh,8,31,121,13202
+quran-simple,95 At-Tin,8,38,181,11018
+quran-simple,96 Al-Alaq,19,76,307,21350
+quran-simple,97 Al-Qadr,5,34,134,7511
+quran-simple,98 Al-Bayyina,8,98,423,28891
+quran-simple,99 Az-Zalzala,8,40,177,17395
+quran-simple,100 Al-Aadiyaat,11,44,188,14157
+quran-simple,101 Al-Qaari'a,11,40,179,10671
+quran-simple,102 At-Takaathur,8,32,142,11163
+quran-simple,103 Al-Asr,3,18,92,5528
+quran-simple,104 Al-Humaza,9,37,153,6744
+quran-simple,105 Al-Fil,5,27,116,6257
+quran-simple,106 Quraish,4,21,96,6455
+quran-simple,107 Al-Maa'un,7,29,133,9994
+quran-simple,108 Al-Kawthar,3,14,62,3550
+quran-simple,109 Al-Kaafiroon,6,31,118,4618
+quran-simple,110 An-Nasr,3,23,99,6910
+quran-simple,111 Al-Masad,5,27,100,6217
+quran-simple,112 Al-Ikhlaas,4,19,66,1788
+quran-simple,113 Al-Falaq,5,27,92,9463
+quran-simple,114 An-Naas,6,24,99,5687
+quran-uthmani,1 Al-Faatiha,7,29,125,10129
+quran-uthmani,2 Al-Baqara,286,6120,24668,1824507
+quran-uthmani,3 Aal-i-Imraan,200,3485,14009,1056552
+quran-uthmani,4 An-Nisaa,176,3751,15402,1117114
+quran-uthmani,5 Al-Maaida,120,2808,11423,824716
+quran-uthmani,6 Al-An'aam,165,3054,12119,934046
+quran-uthmani,7 Al-A'raaf,206,3324,13705,1055016
+quran-uthmani,8 Al-Anfaal,75,1237,5099,376400
+quran-uthmani,9 At-Tawba,129,2498,10408,737552
+quran-uthmani,10 Yunus,109,1837,7202,536428
+quran-uthmani,11 Hud,123,1921,7503,538269
+quran-uthmani,12 Yusuf,111,1781,6979,497764
+quran-uthmani,13 Ar-Ra'd,43,857,3331,239603
+quran-uthmani,14 Ibrahim,52,834,3357,264197
+quran-uthmani,15 Al-Hijr,99,659,2747,180456
+quran-uthmani,16 An-Nahl,128,1848,7407,558062
+quran-uthmani,17 Al-Israa,111,1560,6358,473579
+quran-uthmani,18 Al-Kahf,110,1583,6326,496221
+quran-uthmani,19 Maryam,98,965,3745,281722
+quran-uthmani,20 Taa-Haa,135,1339,5195,388325
+quran-uthmani,21 Al-Anbiyaa,112,1173,4823,351783
+quran-uthmani,22 Al-Hajj,78,1278,4966,365185
+quran-uthmani,23 Al-Muminoon,118,1054,4260,343919
+quran-uthmani,24 An-Noor,64,1320,5426,414521
+quran-uthmani,25 Al-Furqaan,77,897,3701,292900
+quran-uthmani,26 Ash-Shu'araa,227,1322,5393,392600
+quran-uthmani,27 An-Naml,93,1155,4591,334995
+quran-uthmani,28 Al-Qasas,88,1434,5658,399856
+quran-uthmani,29 Al-Ankaboot,69,980,4057,274770
+quran-uthmani,30 Ar-Room,60,821,3294,268970
+quran-uthmani,31 Luqman,34,550,2034,156062
+quran-uthmani,32 As-Sajda,30,376,1499,111187
+quran-uthmani,33 Al-Ahzaab,73,1291,5414,377907
+quran-uthmani,34 Saba,54,887,3432,254863
+quran-uthmani,35 Faatir,45,779,3046,245191
+quran-uthmani,36 Yaseen,83,729,2936,217780
+quran-uthmani,37 As-Saaffaat,182,865,3698,260359
+quran-uthmani,38 Saad,88,737,2902,228456
+quran-uthmani,39 Az-Zumar,75,1176,4565,365460
+quran-uthmani,40 Ghafir,85,1223,4796,361120
+quran-uthmani,41 Fussilat,54,798,3226,237208
+quran-uthmani,42 Ash-Shura,53,864,3319,245098
+quran-uthmani,43 Az-Zukhruf,89,834,3450,254614
+quran-uthmani,44 Ad-Dukhaan,59,350,1413,96648
+quran-uthmani,45 Al-Jaathiya,37,492,1966,154057
+quran-uthmani,46 Al-Ahqaf,35,647,2544,192621
+quran-uthmani,47 Muhammad,38,543,2297,180938
+quran-uthmani,48 Al-Fath,29,564,2384,182590
+quran-uthmani,49 Al-Hujuraat,18,351,1448,102110
+quran-uthmani,50 Qaaf,45,377,1449,107607
+quran-uthmani,51 Adh-Dhaariyat,60,364,1488,117299
+quran-uthmani,52 At-Tur,49,316,1275,94172
+quran-uthmani,53 An-Najm,62,364,1365,107387
+quran-uthmani,54 Al-Qamar,55,346,1432,119165
+quran-uthmani,55 Ar-Rahmaan,78,355,1607,128882
+quran-uthmani,56 Al-Waaqia,96,383,1670,124922
+quran-uthmani,57 Al-Hadid,29,578,2377,189647
+quran-uthmani,58 Al-Mujaadila,22,476,1927,132034
+quran-uthmani,59 Al-Hashr,24,449,1836,130056
+quran-uthmani,60 Al-Mumtahana,13,352,1490,99630
+quran-uthmani,61 As-Saff,14,225,911,62493
+quran-uthmani,62 Al-Jumu'a,11,179,718,60363
+quran-uthmani,63 Al-Munaafiqoon,11,184,771,54076
+quran-uthmani,64 At-Taghaabun,18,245,1026,79334
+quran-uthmani,65 At-Talaaq,12,291,1149,90134
+quran-uthmani,66 At-Tahrim,12,253,1039,86367
+quran-uthmani,67 Al-Mulk,30,337,1287,102972
+quran-uthmani,68 Al-Qalam,52,304,1251,91593
+quran-uthmani,69 Al-Haaqqa,52,262,1090,84822
+quran-uthmani,70 Al-Ma'aarij,44,221,927,71327
+quran-uthmani,71 Nooh,28,230,944,76056
+quran-uthmani,72 Al-Jinn,28,289,1080,67281
+quran-uthmani,73 Al-Muzzammil,20,203,825,67826
+quran-uthmani,74 Al-Muddaththir,56,259,1003,87358
+quran-uthmani,75 Al-Qiyaama,40,168,654,49809
+quran-uthmani,76 Al-Insaan,31,247,1068,74269
+quran-uthmani,77 Al-Mursalaat,50,185,810,72566
+quran-uthmani,78 An-Naba,40,177,768,53808
+quran-uthmani,79 An-Naazi'aat,46,183,753,60688
+quran-uthmani,80 Abasa,42,137,549,47795
+quran-uthmani,81 At-Takwir,29,108,423,41042
+quran-uthmani,82 Al-Infitaar,19,84,328,27062
+quran-uthmani,83 Al-Mutaffifin,36,173,733,57509
+quran-uthmani,84 Al-Inshiqaaq,25,111,443,33709
+quran-uthmani,85 Al-Burooj,22,113,448,33619
+quran-uthmani,86 At-Taariq,17,65,253,17372
+quran-uthmani,87 Al-A'laa,19,76,293,26277
+quran-uthmani,88 Al-Ghaashiya,26,96,388,31902
+quran-uthmani,89 Al-Fajr,30,141,560,48742
+quran-uthmani,90 Al-Balad,20,86,339,21098
+quran-uthmani,91 Ash-Shams,15,58,257,19846
+quran-uthmani,92 Al-Lail,21,75,315,29586
+quran-uthmani,93 Ad-Dhuhaa,11,44,176,13281
+quran-uthmani,94 Ash-Sharh,8,31,113,13194
+quran-uthmani,95 At-Tin,8,38,163,11000
+quran-uthmani,96 Al-Alaq,19,76,281,21324
+quran-uthmani,97 Al-Qadr,5,34,122,7508
+quran-uthmani,98 Al-Bayyina,8,98,391,28869
+quran-uthmani,99 Az-Zalzala,8,40,168,17386
+quran-uthmani,100 Al-Aadiyaat,11,44,173,14142
+quran-uthmani,101 Al-Qaari'a,11,40,165,10675
+quran-uthmani,102 At-Takaathur,8,32,132,11162
+quran-uthmani,103 Al-Asr,3,18,81,5517
+quran-uthmani,104 Al-Humaza,9,37,142,6733
+quran-uthmani,105 Al-Fil,5,27,111,6252
+quran-uthmani,106 Quraish,4,21,87,6437
+quran-uthmani,107 Al-Maa'un,7,29,122,9983
+quran-uthmani,108 Al-Kawthar,3,14,55,3543
+quran-uthmani,109 Al-Kaafiroon,6,30,110,4610
+quran-uthmani,110 An-Nasr,3,23,91,6902
+quran-uthmani,111 Al-Masad,5,27,95,6212
+quran-uthmani,112 Al-Ikhlaas,4,19,60,1782
+quran-uthmani,113 Al-Falaq,5,27,84,9455
+quran-uthmani,114 An-Naas,6,24,87,5675

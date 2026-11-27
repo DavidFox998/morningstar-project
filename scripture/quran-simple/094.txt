@@ -1,0 +1,37 @@
+# Surah 94 Ash-Sharh (Arabic, quran-simple)
+Source: AlQuran Cloud quran-simple (Tanzil text), abjad values, diacritics/dagger alifs are marks not letters
+Verses: 8  Words: 31  Letters: 121  Standard total: 13202
+Format per verse: heading, native line, number line (standard values, word groups separated by ·).
+The machine file 094.tsv carries per-verse letter strings, standard and ordinal streams.
+
+## 94:1
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
+2 60 40 · 1 30 30 5 · 1 30 200 8 40 50 · 1 30 200 8 10 40 · 1 30 40 · 50 300 200 8 · 30 20 · 90 4 200 20
+
+## 94:2
+وَوَضَعْنَا عَنْكَ وِزْرَكَ
+6 6 800 70 50 1 · 70 50 20 · 6 7 200 20
+
+## 94:3
+الَّذِي أَنْقَضَ ظَهْرَكَ
+1 30 700 10 · 1 50 100 800 · 900 5 200 20
+
+## 94:4
+وَرَفَعْنَا لَكَ ذِكْرَكَ
+6 200 80 70 50 1 · 30 20 · 700 20 200 20
+
+## 94:5
+فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
+80 1 50 · 40 70 · 1 30 70 60 200 · 10 60 200 1
+
+## 94:6
+إِنَّ مَعَ الْعُسْرِ يُسْرًا
+1 50 · 40 70 · 1 30 70 60 200 · 10 60 200 1
+
+## 94:7
+فَإِذَا فَرَغْتَ فَانْصَبْ
+80 1 700 1 · 80 200 1000 400 · 80 1 50 90 2
+
+## 94:8
+وَإِلَىٰ رَبِّكَ فَارْغَبْ
+6 1 30 10 · 200 2 20 · 80 1 200 1000 2

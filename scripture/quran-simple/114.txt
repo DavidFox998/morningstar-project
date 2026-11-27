@@ -1,0 +1,29 @@
+# Surah 114 An-Naas (Arabic, quran-simple)
+Source: AlQuran Cloud quran-simple (Tanzil text), abjad values, diacritics/dagger alifs are marks not letters
+Verses: 6  Words: 24  Letters: 99  Standard total: 5687
+Format per verse: heading, native line, number line (standard values, word groups separated by ·).
+The machine file 114.tsv carries per-verse letter strings, standard and ordinal streams.
+
+## 114:1
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ
+2 60 40 · 1 30 30 5 · 1 30 200 8 40 50 · 1 30 200 8 10 40 · 100 30 · 1 70 6 700 · 2 200 2 · 1 30 50 1 60
+
+## 114:2
+مَلِكِ النَّاسِ
+40 30 20 · 1 30 50 1 60
+
+## 114:3
+إِلَٰهِ النَّاسِ
+1 30 5 · 1 30 50 1 60
+
+## 114:4
+مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
+40 50 · 300 200 · 1 30 6 60 6 1 60 · 1 30 600 50 1 60
+
+## 114:5
+الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
+1 30 700 10 · 10 6 60 6 60 · 80 10 · 90 4 6 200 · 1 30 50 1 60
+
+## 114:6
+مِنَ الْجِنَّةِ وَالنَّاسِ
+40 50 · 1 30 3 50 5 · 6 1 30 50 1 60

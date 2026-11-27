@@ -1,0 +1,25 @@
+# Surah 111 Al-Masad (Arabic, quran-uthmani)
+Source: AlQuran Cloud quran-uthmani (Tanzil text), abjad values, diacritics/dagger alifs are marks not letters
+Verses: 5  Words: 27  Letters: 95  Standard total: 6212
+Format per verse: heading, native line, number line (standard values, word groups separated by ·).
+The machine file 111.tsv carries per-verse letter strings, standard and ordinal streams.
+
+## 111:1
+بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ
+2 60 40 · 30 30 5 · 30 200 8 40 50 · 30 200 8 10 40 · 400 2 400 · 10 4 1 · 1 2 10 · 30 5 2 · 6 400 2
+
+## 111:2
+مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ
+40 1 · 1 1000 50 10 · 70 50 5 · 40 1 30 5 · 6 40 1 · 20 60 2
+
+## 111:3
+سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ
+60 10 90 30 10 · 50 1 200 1 · 700 1 400 · 30 5 2
+
+## 111:4
+وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ
+6 40 200 1 400 5 · 8 40 1 30 5 · 30 8 9 2
+
+## 111:5
+فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ
+80 10 · 3 10 4 5 1 · 8 2 30 · 40 50 · 40 60 4

@@ -1,0 +1,21 @@
+# Surah 112 Al-Ikhlaas (Arabic, quran-uthmani)
+Source: AlQuran Cloud quran-uthmani (Tanzil text), abjad values, diacritics/dagger alifs are marks not letters
+Verses: 4  Words: 19  Letters: 60  Standard total: 1782
+Format per verse: heading, native line, number line (standard values, word groups separated by ·).
+The machine file 112.tsv carries per-verse letter strings, standard and ordinal streams.
+
+## 112:1
+بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ
+2 60 40 · 30 30 5 · 30 200 8 40 50 · 30 200 8 10 40 · 100 30 · 5 6 · 30 30 5 · 1 8 4
+
+## 112:2
+ٱللَّهُ ٱلصَّمَدُ
+30 30 5 · 30 90 40 4
+
+## 112:3
+لَمْ يَلِدْ وَلَمْ يُولَدْ
+30 40 · 10 30 4 · 6 30 40 · 10 6 30 4
+
+## 112:4
+وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ
+6 30 40 · 10 20 50 · 30 5 · 20 80 6 1 · 1 8 4
