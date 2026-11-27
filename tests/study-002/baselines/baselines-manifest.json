@@ -1,0 +1,37 @@
+{
+  "seed": 42,
+  "n_shuffle": 200,
+  "n_surrogate": 200,
+  "spec": "halves, center letter standing in neither, 2^a*5^b only",
+  "corpora": {
+    "tanakh": {
+      "verses": 23213,
+      "verses_right_sum_zero": 0
+    },
+    "nt": {
+      "verses": 7927,
+      "verses_right_sum_zero": 0
+    },
+    "quran-simple": {
+      "verses": 6236,
+      "verses_right_sum_zero": 0
+    },
+    "quran-uthmani": {
+      "verses": 6236,
+      "verses_right_sum_zero": 0
+    }
+  },
+  "sha256": {
+    "full/shuffle-full-nt.csv": "5189d4cf13e547a6dfcdba712726e3c955e5f4d6e71e9ad0e51864dce0855b55",
+    "full/shuffle-full-quran-simple.csv": "f0677d8e1a044ef46e326fce00607e52bb45eabf88b6dd4fe4355ca9ab065525",
+    "full/shuffle-full-quran-uthmani.csv": "7886a577c22c9f8548a7ae1f880350e07f387724c5ae03a02dd585a21fe09575",
+    "full/shuffle-full-tanakh.csv": "a1bc1ea1e7d1aa4fff8e605d6a14414ddc9d686e6a25f50f3bf091d332597e15",
+    "full/surrogate-full-nt.csv": "580efda958b1b7b24b9c05386354732fd7d692a8cfb741a144c0492470a8629f",
+    "full/surrogate-full-quran-simple.csv": "02c2989db7075d07f57636ec614584461fffc75040cc4a893558d7a8b0a42181",
+    "full/surrogate-full-quran-uthmani.csv": "961c97930d5277920cf4342914728f6aa671f22ab94cc24b47de56937fa5d9e6",
+    "full/surrogate-full-tanakh.csv": "f9b2ffb758cc584db83f3e63a85870c9a85bad47deacbf0e5821f9a92d254c33",
+    "shuffle-200/summary.csv": "2c4f3108dbb49167f3ea7b79b669edf626964b55ac5b041f4e8387eda7fe4b90",
+    "surrogate-200/summary.csv": "bf11d94b17260c1a5b01cc3e1082db040458358719203b2b266b963dad5e3198",
+    "tables/table-B-verse.csv": "53903b2b10af18fd91c0af5338d3c5eccf603a93ea552c8f37ab59c54f8c752d"
+  }
+}
